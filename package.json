@@ -31,7 +31,7 @@
         "@commitlint/config-conventional": "^19.6.0",
         "@inquirer/testing": "^2.1.41",
         "@inquirer/type": "^3.0.2",
-        "@types/bun": "^1.1.17",
+        "@types/bun": "^1.2.0",
         "@types/inquirer": "^9.0.7",
         "@types/yargs": "^17.0.33",
         "branch-name-lint": "^2.1.1",
